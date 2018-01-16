@@ -1,2 +1,2 @@
 # HL_CRIMINAL_CL
-hackerEarth criminal prediction challenge
+solution for hackerEarth criminal prediction challenge
