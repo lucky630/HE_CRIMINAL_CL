@@ -7,3 +7,5 @@ Techniques and different models used:
 2. deep neural network using keras
 
 3. using xgboost
+
+4. using lightgbm and catboost
