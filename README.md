@@ -9,3 +9,5 @@ Techniques and different models used:
 3. using xgboost
 
 4. using lightgbm and catboost
+
+5. model stacking
