@@ -1,6 +1,6 @@
 # HL_CRIMINAL_CL
-solution for hackerEarth criminal prediction challenge
-Techniques and different models used:
+This is the starting approach for the hackerEarth criminal prediction challenge
+Here are some Techniques and models:
 
 1. machine learning models using sklearn
 
