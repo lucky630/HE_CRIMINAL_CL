@@ -1,5 +1,6 @@
 # HL_CRIMINAL_CL
-This is the starting approach for the hackerEarth criminal prediction challenge
+This is the starting approach for the hackerEarth criminal prediction challenge. link to the competition page:
+https://www.hackerearth.com/challenge/competitive/predict-the-criminal/leaderboard/
 Here are some Techniques and models:
 
 1. machine learning models using sklearn
